@@ -28,4 +28,4 @@ For support inquiries or feedback, please contact: ba.trading.boaz@gmail.com
 FocusBubble is developed by Boaz van der Pot, committed to creating tools that enhance productivity while respecting user privacy and providing a seamless experience.
 
 ---
-© 2024 FocusBubble. All rights reserved.
+© 2025 FocusBubble. All rights reserved.
